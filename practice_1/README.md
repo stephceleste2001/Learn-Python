@@ -2,4 +2,4 @@
 
 ## Part 1 - Numbers
 * Link to part 1
-	- [Part 1](part_1.ipynb)
+  - [Part 1](part_1.ipynb)
