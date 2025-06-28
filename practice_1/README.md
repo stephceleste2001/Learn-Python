@@ -8,3 +8,5 @@
       - Basic Arithmetic
       - Differences between classic division and floor division
       - Object Assignment in Python
+## Part 2 - Variable Assignment
+* 
