@@ -1,6 +1,13 @@
 # Learn-Python
 
-- [Part 1](practice_1/README.md)
+- [Part 1](practice_1/part_1.ipynb)
   - We are learning about numbers in Python.
+- [Part 2](practice_1/part_2.ipynb)
   - We are learning about variable assignments.
-  - We are learning about strings.
+- [Part 3](practice_1/part_3.ipynb)
+  - Creating Strings
+  - Printing Strings
+  - String Indexing and Slicing
+  - String Properties
+  - String Methods
+  - Print Formatting
