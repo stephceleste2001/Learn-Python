@@ -11,3 +11,11 @@
   - String Properties
   - String Methods
   - Print Formatting
+- [Part 4](practice_1/part_4.ipynb)
+  - Formatting with placeholders
+  - Format conversion methods
+  - Padding and Precision of Floating point numbers
+  - Multiple Formatting
+  - Formatting with the .format() method
+  - Alignment, padding, and precision with .format()
+  - Formatted String Literals
