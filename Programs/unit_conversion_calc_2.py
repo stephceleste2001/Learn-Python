@@ -58,4 +58,4 @@ elif length_value == 5:
 elif length_value == 6:
     print("{} km is equal to {} cm.".format(length_value, length_value * 100000))
 elif length_value == 7:
-    print("{} cm is equal to {} feet".format(length_convert))
+    print("{} cm is equal to {} feet".format(length_value, length_value))
