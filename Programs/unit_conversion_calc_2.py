@@ -58,4 +58,11 @@ elif length_value == 5:
 elif length_value == 6:
     print("{} km is equal to {} cm.".format(length_value, length_value * 100000))
 elif length_value == 7:
-    print("{} cm is equal to {} feet".format(length_value, length_value))
+    print("{} cm is equal to {} feet".format(length_value, length_value / 30.48))
+elif length_convert == 8:
+    print("{} fee is equal to {} cm.".format(length_value, length_value * 30.48))
+elif length_convert == 9:
+    print("{} KM is equal to {} mile.".format(length_value / 1.609))
+else:
+    print("Sorry, please type correct number from 1 to 10.")
+
