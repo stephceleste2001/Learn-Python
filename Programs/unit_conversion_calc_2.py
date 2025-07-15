@@ -1,4 +1,4 @@
-print("Unit Convertor")
+print("Unit Converter")
 print("==============")
 
 # Choose type of conversion
@@ -37,32 +37,55 @@ if change == 1:
             10: "Mile to Kilometer"
          }
 
-# for getting number of conversion
-print("=====================")
-length_value = float(input("- Enter a number to convert: "))
-for keys, values in length_dict.items():
-    print("{:2}. {}".format(keys, values))
-length_convert = int(input("\nWhich conversion you want to do from 1 to 8: "))
+    # for getting number of conversion
+    print("=====================")
+    length_value = float(input("- Enter a number to convert: "))
+    for keys, values in length_dict.items():
+        print("{:2}. {}".format(keys, values))
+    length_convert = int(input("\nWhich conversion you want to do from 1 to 8: "))
 
-# converting
-if length_convert == 1:
-    print("{} cm is equal to {} m.".format(length_value, length_value / 100))
-elif length_convert == 2:
-    print("{} m is equal to {} cm.".format(length_value, length_value * 100))
-elif length_convert == 3:
-    print("{} is equal to {} inch.".format(length_value, length_value / 2.54))
-elif length_convert == 4:
-    print("{} inch is equal to {} cm.".format(length_value, length_value * 2.54))
-elif length_value == 5:
-    print("{} cm is equal to {} km.".format(length_value, length_value / 100000))
-elif length_value == 6:
-    print("{} km is equal to {} cm.".format(length_value, length_value * 100000))
-elif length_value == 7:
-    print("{} cm is equal to {} feet".format(length_value, length_value / 30.48))
-elif length_convert == 8:
-    print("{} fee is equal to {} cm.".format(length_value, length_value * 30.48))
-elif length_convert == 9:
-    print("{} KM is equal to {} mile.".format(length_value / 1.609))
-else:
-    print("Sorry, please type correct number from 1 to 10.")
+    # converting
+    if length_convert == 1:
+        print("{} cm is equal to {} m.".format(length_value, length_value / 100))
+    elif length_convert == 2:
+        print("{} m is equal to {} cm.".format(length_value, length_value * 100))
+    elif length_convert == 3:
+        print("{} is equal to {} inch.".format(length_value, length_value / 2.54))
+    elif length_convert == 4:
+        print("{} inch is equal to {} cm.".format(length_value, length_value * 2.54))
+    elif length_value == 5:
+        print("{} cm is equal to {} km.".format(length_value, length_value / 100000))
+    elif length_value == 6:
+        print("{} km is equal to {} cm.".format(length_value, length_value * 100000))
+    elif length_value == 7:
+        print("{} cm is equal to {} feet".format(length_value, length_value / 30.48))
+    elif length_convert == 8:
+        print("{} fee is equal to {} cm.".format(length_value, length_value * 30.48))
+    elif length_convert == 9:
+        print("{} KM is equal to {} mile.".format(length_value / 1.609))
+    elif length_convert == 10:
+        print("{} mile equal to {} KM".format(length_value, length_value * 1.609))
+    else:
+        print("Sorry, please type correct number from 1 to 10.")
 
+# Type 2 (Mass)
+elif change == 2:
+    print(">>> You chose type Mass")
+    print("")
+    mass_dict = \
+        {
+            1: "Gram to Kilogram",
+            2: "Kilogram to Gram",
+            3: "Kilogram to Ton",
+            4: "Ton to Kilogram",
+            5: "Milligram to Kilogram",
+            6: "Kilogram to Milligram",
+            7: "Milligram to Gram",
+            8: "Gram to Millifram",
+            9: "Kilogram to Pound (lb)",
+            10: "Pound (lb) to Kilogram",
+            11: "Micrograms to gram",
+            12: "Micrograms to Kilogram"
+        }
+    
+    
