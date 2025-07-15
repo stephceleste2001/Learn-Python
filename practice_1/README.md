@@ -1,21 +1,52 @@
-# Learn-Python
+# Practice 1 - Python Object and Data Structures
 
-- [Part 1](practice_1/part_1.ipynb)
-  - We are learning about numbers in Python.
-- [Part 2](practice_1/part_2.ipynb)
-  - We are learning about variable assignments.
-- [Part 3](practice_1/part_3.ipynb)
-  - Creating Strings
-  - Printing Strings
-  - String Indexing and Slicing
-  - String Properties
-  - String Methods
-  - Print Formatting
-- [Part 4](practice_1/part_4.ipynb)
-  - Formatting with placeholders
-  - Format conversion methods
-  - Padding and Precision of Floating point numbers
-  - Multiple Formatting
-  - Formatting with the .format() method
-  - Alignment, padding, and precision with .format()
-  - Formatted String Literals
+1. [Part 1](part_1.ipynb)
+   - Types of Numbers in Python
+   - Basic Arithmetic
+   - Differences between classic division and floor division
+   - Object Assignment in python
+2. [Part 2]()
+   - 
+   - 
+   - 
+   - 
+3. [Part 3]()
+   - 
+   - 
+   - 
+   - 
+4. [Part 4]()
+   - 
+   - 
+   - 
+   - 
+5. [Part 5]()
+   - 
+   - 
+   - 
+   - 
+6. [Part 6]()
+   - 
+   - 
+   - 
+   - 
+7. [Part 7]()
+   - 
+   - 
+   - 
+   - 
+8. [Part 8]()
+   - 
+   - 
+   - 
+   - 
+9.  [Part 9]()
+   - 
+   - 
+   - 
+   - 
+10. [Part 10]()
+   - 
+   - 
+   - 
+   - 
