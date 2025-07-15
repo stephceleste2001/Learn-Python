@@ -11,8 +11,8 @@
    - Reassigning Variable
    - Determining Variable Type with ``type()``
    - Simple Exercises
-3. [Part 3]()
-   - 
+3. [Part 3](part_3.ipynb)
+   - Creating Strings
    - 
    - 
    - 
