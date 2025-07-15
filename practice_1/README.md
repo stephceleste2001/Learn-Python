@@ -5,11 +5,12 @@
    - Basic Arithmetic
    - Differences between classic division and floor division
    - Object Assignment in python
-2. [Part 2]()
-   - 
-   - 
-   - 
-   - 
+2. [Part 2](part_2.ipynb)
+   - Dynamic Typing
+   - Assigning Variable
+   - Reassigning Variable
+   - Determining Variable Type with ``type()``
+   - Simple Exercises
 3. [Part 3]()
    - 
    - 
