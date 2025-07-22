@@ -13,19 +13,24 @@
    - Simple Exercises
 3. [Part 3](part_3.ipynb)
    - Creating Strings
-   - 
-   - 
-   - 
-4. [Part 4]()
-   - 
-   - 
-   - 
-   - 
-5. [Part 5]()
-   - 
-   - 
-   - 
-   - 
+   - Printing Strings
+   - String Indexing and Slicing
+   - String Properties
+   - String Methods
+   - Print Formatting
+4. [Part 4](part_4.ipynb)
+   - Formatting with placeholders
+   - Format conversion methods
+   - Padding & Precision of Floating Point Numbers
+   - Multiple Formatting
+   - Alignment, padding and precision with ``.format``
+   - Formatting String Literals (f-strings)
+   - Formatting follows ``"result: {value:{width}.{precision}}"``
+5. [Part 5](part_5.ipynb)
+   - Creating lists
+   - Indexing and Slicing Lists
+   - Basic List Methods
+   - Introduction to List Comprehension
 6. [Part 6]()
    - 
    - 
