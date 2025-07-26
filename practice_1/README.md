@@ -32,9 +32,10 @@
    - Basic List Methods
    - Introduction to List Comprehension
 6. [Part 6]()
-   - 
-   - 
-   - 
+   - Constructing a Dictionary
+   - Accessing objects from a dictionary
+   - Nesting Dictionary
+   - Basic Dictionary Methods
    - 
 7. [Part 7]()
    - 
