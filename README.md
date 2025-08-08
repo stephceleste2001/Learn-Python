@@ -9,6 +9,6 @@
   - We are learning about lists.
   - We are learning about dictionaries.
 - [Part 2](practice_1/README.md)
-  - 
+  - hey
 - [Part 3](practice_1/README.md)
   - 
